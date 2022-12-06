@@ -1,0 +1,28 @@
+.container {
+    position: relative;
+    z-index: -10;
+    width: 100%;
+}
+
+.container div {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+}
+
+.container h1 {
+    font-size: 96px;
+    color: white;
+}
+
+@media (max-width: 920px) {
+    .container h1 {
+        font-size: 58px;
+    }
+}

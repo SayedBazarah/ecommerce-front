@@ -1,0 +1,20 @@
+.container {
+    max-width: 1366px;
+    margin: 100px auto;
+    position: relative;
+}
+
+.posts {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px
+}
+
+@media (max-width: 920px) {
+    .posts {
+        max-width: 90%;
+    }
+}

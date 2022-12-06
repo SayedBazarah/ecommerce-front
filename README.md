@@ -21,9 +21,3 @@ I have use **Next JS** to build this project, so website can be crawel by search
 - First clone the code
 - run `> npm install`
 
-git init
-git add README.md
-git commit -m "Project Setup"
-git branch -M main
-git remote add origin https://github.com/SayedBazarah/ecommerce.git
-git push -u origin main

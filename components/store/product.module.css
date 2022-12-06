@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    color: #2e2e2e;
+    text-decoration: none;
+    padding: 25px;
+}
+
+.container:hover {
+    color: #2e2e2e;
+    border-radius: 1px;
+    box-shadow: rgb(0 0 0 / 12%) 0px 8px 24px 0px;
+}
+
+.info div:nth-child(1) {
+    font-weight: bold;
+}
