@@ -1,0 +1,14 @@
+.description {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: rgb(127, 6, 6)
+}
+
+.description h3 {
+    font-size: 60px;
+}
+
+.description h3 {
+    font-size: 48px;
+}

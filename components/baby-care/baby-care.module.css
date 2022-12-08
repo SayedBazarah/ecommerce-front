@@ -1,0 +1,10 @@
+.container {
+    max-width: 1366px;
+    margin: 100px auto;
+
+}
+
+.container div {
+    width: fit-content;
+    margin-left: 20px;
+}
