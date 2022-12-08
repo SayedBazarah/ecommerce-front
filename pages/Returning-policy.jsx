@@ -36,8 +36,8 @@ const ReturningPolicy = (props) => {
         
          <h2>Refunds Policy</h2>         
          <p>
-         
-   You are entitled to cancel your order within 30 days
+             
+   You're entitled to cancel your order within 30 days
      without giving any reason for doing so.
      In order to exercise your right of cancellation,
      you must inform us of your decision by means of a clear
