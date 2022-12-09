@@ -1,0 +1,59 @@
+
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    color: #8f0e8d;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    color: #2e2e2e;
+    text-decoration: none;
+    padding: 25px;
+}
+
+.container:hover {
+    color: #2e2e2e;
+    border-radius: 1px;
+    box-shadow: rgba(60, 36, 36, 0.749) 0px 8px 15px 0px;
+}
+
+.info div:nth-child(1) {
+    font-weight: bold;
+}
+
+
+
+/* index stayle */
+.container {
+    max-width: 1500px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.products {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+@media (max-width: 920px) {
+    .posts {
+        max-width: 90%;
+    }
+}
+
+
+
+
